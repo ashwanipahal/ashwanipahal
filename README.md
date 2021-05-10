@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashwanipahal
-- 🌱 I’m currently working development using ReactJs
+- 🌱 I’m currently working on web development using ReactJs
 - 📫 reach me on linkedin - https://www.linkedin.com/in/ashwanipahal10
 
 <!---
